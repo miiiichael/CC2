@@ -1,4 +1,4 @@
-# CC2
+# MAGIC SQUARE
 
 package ms;
 
